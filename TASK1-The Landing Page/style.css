@@ -50,7 +50,7 @@ html{
   display: inline-block;
 }
 .navbar-menu a:hover{
-  color: #d49c00;
+  color: #d40000;
   font-weight: 700;
 }
 #home{
@@ -73,7 +73,7 @@ html{
   font-weight: 900;
   letter-spacing: 6px;
   margin-bottom: 20px;
-  font-family: 'Raleway',sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .content p{
   font-size: 15px;
